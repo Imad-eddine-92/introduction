@@ -9,7 +9,6 @@ Le développement web désigne le processus de création, de construction et de 
 Connaissances HTML:
 
 réponse N°2:
-
 oui, HTML sert à créer la structure de base des pages web. (on peux dire c'est la squelette de site web ).
 
 
@@ -18,7 +17,6 @@ Section 2 : Familiarité avec CSS
 Compréhension de CSS:
 
 réponse N°1:
-
 oui un petit peux, CSS travaille en complément de HTML, c'est est un langage utilisé dans le développement web pour gérer l'apparence et le style des pages web. 
 
 
@@ -27,7 +25,6 @@ Section 3 : JavaScript et son importance
 Introduction à JavaScript:
 
 réponse N°1:
-
 JavaScript (JS) est un langage de programmation utilisé pour ajouter de l'interactivité, de la dynamique (mais je n'ai aucune connaissance sur le JS).
 
 
