@@ -4,7 +4,6 @@ Section 1 : Connaissances générales
 Bases du développement web:
 
 réponse N°1:
-
 Le développement web désigne le processus de création, de construction et de maintenance des sites web et d'applications accessibles via Internet.
 
 Connaissances HTML:
